@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		402B0DE228CB86BF003B47C8 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 402B0DE128CB86BF003B47C8 /* OrderView.swift */; };
 		40CCD20728BD0D4E00C60041 /* iDineApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40CCD20628BD0D4E00C60041 /* iDineApp.swift */; };
 		40CCD20928BD0D4E00C60041 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40CCD20828BD0D4E00C60041 /* ContentView.swift */; };
 		40CCD20B28BD0D4F00C60041 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 40CCD20A28BD0D4F00C60041 /* Assets.xcassets */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		402B0DE128CB86BF003B47C8 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
 		40CCD20328BD0D4E00C60041 /* iDine.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iDine.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		40CCD20628BD0D4E00C60041 /* iDineApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iDineApp.swift; sourceTree = "<group>"; };
 		40CCD20828BD0D4E00C60041 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				40CCD20628BD0D4E00C60041 /* iDineApp.swift */,
 				40CCD20828BD0D4E00C60041 /* ContentView.swift */,
 				40CCD22028C8EAD900C60041 /* ItemDetail.swift */,
+				402B0DE128CB86BF003B47C8 /* OrderView.swift */,
 				40CCD21C28C795C600C60041 /* ItemRow.swift */,
 				40CCD21428BE572600C60041 /* Helper.swift */,
 				40CCD21628BE574000C60041 /* Menu.swift */,
@@ -157,6 +160,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				40CCD22128C8EAD900C60041 /* ItemDetail.swift in Sources */,
+				402B0DE228CB86BF003B47C8 /* OrderView.swift in Sources */,
 				40CCD20928BD0D4E00C60041 /* ContentView.swift in Sources */,
 				40CCD20728BD0D4E00C60041 /* iDineApp.swift in Sources */,
 				40CCD21928BE575100C60041 /* Order.swift in Sources */,
